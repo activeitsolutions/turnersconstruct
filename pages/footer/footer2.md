@@ -1,3 +1,24 @@
-<!-- sectiontitle:Contribute on GitHub -->
+<!-- sectiontitle:Send Us a Message -->
 
-Join our community on GitHub and contribute to the evolution of Skeleton Website Framework. Visit the repository at [Skeleton Website Framework on Github](https://github.com/ForbodingAngel/skeleton-website-framework) to access the latest updates, report issues, and submit pull requests. Your contributions are invaluable to us!
+<div class="textalign-left">
+<form onsubmit="sendEmail(); return false;">
+<label for="subject">Subject:</label><br>
+<input type="text" id="subject" name="subject" required><br>
+
+<label for="message">Message:</label><br>
+<textarea id="message" name="body" rows="4" cols="50" required></textarea><br><br>
+
+<input type="submit" value="Send Email">
+</form>
+
+<script>
+function sendEmail() {
+var subject = document.getElementById("subject").value;
+var message = document.getElementById("message").value;
+var mailtoLink = "recipient@example.com" +
+ "?subject=" + encodeURIComponent(subject) +
+ "&body=" + encodeURIComponent(message);
+window.location.href = mailtoLink;
+}
+</script>
+</div>

@@ -7,9 +7,18 @@
 	}
 
     include 'config/config.php';
-	$CurrentDomainURL = "http://" . $_SERVER['HTTP_HOST'];
+	
+	if(isset($_SERVER['HTTPS']) && $_SERVER['HTTPS'] === 'on') {
+		$protocol = "https://";
+	} else {
+		$protocol = "http://";
+	}
+	$CurrentDomainURL = $protocol . $_SERVER['HTTP_HOST'];
+
+	
     if ($CurrentDomainURL != $WebsiteURL) {
         header("Location: " . $WebsiteURL);
+        die();
     }
 	
 /****************************************************/
@@ -19,7 +28,7 @@
 	
 	$requestedPage = trim(parse_url($requestUri, PHP_URL_PATH), '/'); /* This line parses the requested URI using the parse_url() function and extracts the path component using the PHP_URL_PATH constant. The trim() function is then used to remove any leading or trailing slashes from the path. */
 	if ($requestedPage == "") { $requestedPage = "home"; }
-	//echo $requestedPage; /* This line is commented out and is not executed. It appears to be for debugging purposes, possibly to echo/print the value of $requestedPage for testing. */
+	//echo $requestedPage; /* This line is commented out and is not executed. It's purpose is to echo/print the value of $requestedPage for testing. */
 	
 	
 	/* Generate list of potential target pages */
@@ -54,7 +63,7 @@
 
 	// Check if the requested page exists in the list of files. If it doesn't, then force it onto a 404 page.
 	if (!in_array("pages/" . $requestedPage . ".md", $files)) {
-		header("Location: https://" . $_SERVER['HTTP_HOST'] . "/404");
+		header("Location: " . $protocol . $_SERVER['HTTP_HOST'] . "/404");
 		die();
 	}
 	/* END Generate list of potential target pages */
@@ -62,7 +71,7 @@
 	
 	/* This is a catchall, just in case. There is also another catchall in the config file, just in case this one doesn't do the trick. This is nowhere near as sophisticated as the approach above, but it still could potentially catch things that fell through the cracks */
 	if (!file_exists("pages/" . $requestedPage .".md")) { 
-		header("Location: https://" . $_SERVER['HTTP_HOST'] . "/404");
+		header("Location: " . $protocol . $_SERVER['HTTP_HOST'] . "/404");
 		die();
 	}
 /* END Protect the entire site from random URL snooping */

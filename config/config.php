@@ -42,7 +42,7 @@
 		$metaInfoBoxRewriteURL = true;
             
         /* FontAwesome */
-        $fontAwesome = false;
+        $fontAwesome = true;
 		
 		/* yBox (Lightbox) */
         $yBox = true;

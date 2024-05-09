@@ -1,3 +1,17 @@
-<!-- sectiontitle:Explore Our Framework -->
+<!-- sectiontitle:Contact Us -->
 
-Discover the endless possibilities of the Skeleton Website Framework. From streamlined development to enhanced security features, explore how our framework can elevate your website projects. Start exploring today!
+<div class="textalign-left">
+
+</br>
+
+<i class="fa fa-home" aria-hidden="true"></i> Fontana, CA 92337
+
+</br>
+
+<i class="fa fa-address-card" aria-hidden="true"></i> [info@turnersconstruction.com](mailto:info@turnersconstruction.com)
+
+</br>
+
+<i class="fa fa-phone" aria-hidden="true"></i> (909) 609-9395
+
+</div>

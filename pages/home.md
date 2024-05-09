@@ -96,12 +96,39 @@ We set high standards for ourselves and continuously strive for excellence in ev
 
 <div class="row">
     <div class="column flex-basis-300">
-<a href="pages/posts/images/coding-computer-thumb.webp" data-ybox-group="ourwork" data-ybox-alt="Image Alt" data-ybox-title="Image1" class="yBox"><img src="./pages/posts/images/coding-computer-thumb.webp"></a>
+<a href="pages/images/landing-page-gallery/landing-gallery-1.webp" data-ybox-group="ourwork" data-ybox-alt="Image Alt" data-ybox-title="Image1" class="yBox"><img src="pages/images/landing-page-gallery/landing-gallery-1.webp"></a>
     </div>
     <div class="column flex-basis-300">
-<a href="pages/posts/images/babykitty.webp" data-ybox-group="ourwork" data-ybox-alt="Image Alt" data-ybox-title="Image2" class="yBox"><img src="./pages/posts/images/babykitty.webp"></a>
+<a href="pages/images/landing-page-gallery/landing-gallery-2.webp" data-ybox-group="ourwork" data-ybox-alt="Image Alt" data-ybox-title="Image2" class="yBox"><img src="pages/images/landing-page-gallery/landing-gallery-2.webp"></a>
     </div>
     <div class="column flex-basis-300">
-<a href="pages/posts/images/cssbeforeandaftersliderexample.gif" data-ybox-group="ourwork" data-ybox-alt="Image Alt" data-ybox-title="Image3" class="yBox"><img src="./pages/posts/images/cssbeforeandaftersliderexample.gif"></a>
+<a href="pages/images/landing-page-gallery/landing-gallery-3.webp" data-ybox-group="ourwork" data-ybox-alt="Image Alt" data-ybox-title="Image3" class="yBox"><img src="pages/images/landing-page-gallery/landing-gallery-3.webp"></a>
+    </div>
+    <div class="column flex-basis-300">
+<a href="pages/images/landing-page-gallery/landing-gallery-4.webp" data-ybox-group="ourwork" data-ybox-alt="Image Alt" data-ybox-title="Image4" class="yBox"><img src="pages/images/landing-page-gallery/landing-gallery-4.webp"></a>
+    </div>
+    <div class="column flex-basis-300">
+<a href="pages/images/landing-page-gallery/landing-gallery-5.webp" data-ybox-group="ourwork" data-ybox-alt="Image Alt" data-ybox-title="Image5" class="yBox"><img src="pages/images/landing-page-gallery/landing-gallery-5.webp"></a>
     </div>
 </div>
+
+<h3 class="textalign-center">Testimonials</h2>
+
+<div class="row">
+<div class="column flex-basis-300 textalign-left">
+
+"Turner's Construction Services did an amazing job on my kitchen remodel. They were professional, reliable, and completed the job on time and within budget."
+
+</div>
+<div class="column flex-basis-300 textalign-left">
+
+"We had a major water leak in our home and Turner's Construction Services was there to help us every step of the way. They were fast, efficient, and did a great job on the repairs."
+
+</div>
+<div class="column flex-basis-300 textalign-left">
+
+"I recently hired Turner's Construction Services to remodel my bathroom and I couldn't be happier with the results. Their team was friendly, professional, and went above and beyond to ensure that the job was done correctly."
+
+</div>
+</div>
+

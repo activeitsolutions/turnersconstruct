@@ -1,3 +1,13 @@
-<!-- sectiontitle:Living Documentation -->
+<!-- sectiontitle:Follow Us -->
 
-Immerse yourself in the comprehensive documentation of the Skeleton Website Framework, right here on our website. Explore the various capabilities, features, and functionalities of our framework in real-time. From detailed tutorials to practical examples, dive deep into the heart of the Skeleton Website Framework and unleash your creativity like never before.
+</br>
+
+<i class="fa fa-instagram" aria-hidden="true"></i> [@turnersconstruct](thegwam)
+
+</br>
+
+<i class="fa fa-facebook" aria-hidden="true"></i> [@turnersconstructionservice](https://www.facebook.com/turnersconstructionservice/)
+
+</br>
+
+<i class="fa fa-yelp" aria-hidden="true"></i> [Turners Construction Service](https://www.yelp.com/biz/turners-construction-service-fontana)
