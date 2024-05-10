@@ -1,9 +1,9 @@
-<!-- pagetitle:Skeleton Website Framework -->
+<!-- pagetitle:Turner's Construction Services -->
 <!-- pagelayout:page-notitle -->
 <!-- pagedate: -->
-<!-- pagethumbnail:images/laptop-computer-writing-technology-web-internet.webp -->
-<!-- pageexcerpt:Creating websites shouldn't be a daunting task. With Skeleton Website Framework, simplicity and functionality merge seamlessly. -->
-<!-- pagekeywords:skeleton,framework,development,website,simplicity,security,ease,customize,flexibility -->
+<!-- pagethumbnail:images/heroimage.webp -->
+<!-- pageexcerpt: -->
+<!-- pagekeywords: -->
 <!-- pageauthor: -->
 <!-- pagetype:website -->
 

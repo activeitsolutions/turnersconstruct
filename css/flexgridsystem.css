@@ -14,8 +14,20 @@
   
 }
 
+.flex-basis-600 {
+    flex-basis: 600px;
+}
+
 .flex-basis-300 {
     flex-basis: 300px;
+}
+
+.flex-basis-150 {
+    flex-basis: 150px;
+}
+
+.flex-basis-auto {
+    flex-basis: auto;
 }
 
 .col-1 {

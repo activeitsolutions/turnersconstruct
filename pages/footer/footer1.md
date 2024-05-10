@@ -1,4 +1,6 @@
-<!-- sectiontitle:Contact Us -->
+<!-- sectiontitle: -->
+
+<h6><i class="fa fa-mobile" aria-hidden="true"></i> Contact Us</h6>
 
 <div class="textalign-left">
 

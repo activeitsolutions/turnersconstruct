@@ -1,8 +1,9 @@
-<!-- sectiontitle:Follow Us -->
+<!-- sectiontitle: -->
 
+<h6><i class="fa fa-share-square" aria-hidden="true"></i> Follow Us </h6>
 </br>
 
-<i class="fa fa-instagram" aria-hidden="true"></i> [@turnersconstruct](thegwam)
+<i class="fa fa-instagram" aria-hidden="true"></i> [@turnersconstruction](https://www.instagram.com/turnersconstruction/)
 
 </br>
 
@@ -10,4 +11,4 @@
 
 </br>
 
-<i class="fa fa-yelp" aria-hidden="true"></i> [Turners Construction Service](https://www.yelp.com/biz/turners-construction-service-fontana)
+<i class="fa fa-yelp" aria-hidden="true"></i> [Turners Construction Service](https://www.yelp.com/biz/turners-construction-service-fontana/)

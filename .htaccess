@@ -13,7 +13,7 @@
 	# Rewrite requests to index.php if they are not for valid files or directories
 	RewriteCond %{REQUEST_FILENAME} !-f
 	RewriteCond %{REQUEST_FILENAME} !-d
-	# RewriteRule ^ index.php [L]
+	RewriteRule ^ index.php [L]
 
 	# Rewrite requests for PHP files without extension
 	RewriteRule ^(([A-Za-z0-9\-]+/)*[A-Za-z0-9\-]+)?$ $1.php

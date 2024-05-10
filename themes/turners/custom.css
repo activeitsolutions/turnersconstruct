@@ -406,3 +406,10 @@ input[type="submit"]:hover {
     background-color: rgba(154,138,120,0.5); /* Darker green */
     transition: all .3s ease-in-out;
 }
+
+/*********************************************
+* 17. Input Fields
+**********************************************/
+.yBoxImgZoom .ybox-img-title {
+    background:rgba(0,0,0,0.6);
+}

@@ -1,5 +1,8 @@
-<!-- sectiontitle:Send Us a Message -->
+<!-- sectiontitle: -->
 
+<h6><i class="fa fa-envelope" aria-hidden="true"></i> Send Us a Message</h6>
+</br>
+<div id="contact">
 <div class="textalign-left">
 <form onsubmit="sendEmail(); return false;">
 <label for="subject">Subject:</label><br>
@@ -15,10 +18,11 @@
 function sendEmail() {
 var subject = document.getElementById("subject").value;
 var message = document.getElementById("message").value;
-var mailtoLink = "recipient@example.com" +
+var mailtoLink = "mailto:recipient@example.com" +
  "?subject=" + encodeURIComponent(subject) +
  "&body=" + encodeURIComponent(message);
 window.location.href = mailtoLink;
 }
 </script>
+</div>
 </div>
