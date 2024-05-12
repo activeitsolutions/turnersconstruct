@@ -1,7 +1,7 @@
 <?php
 	/* Don't forget to turn on caching if you're deploying to production! */
     $enableHTMLCacheServe = false;
-	$WebsiteURL = "http://www.turnersconstruct.localhost"; /* If you don't change this to match your domain, your site won't appear to work at all */
+	$WebsiteURL = "http://www.turnersconstruct.skeletonframe.work"; /* If you don't change this to match your domain, your site won't appear to work at all */
 	$WebsiteTitle = "Turner's Construction Services";
 	$WebsiteLanguage = "en"; /* Use Language Codes */
 	$WebsiteLanguageCountry = "US"; /* Use country codes */
