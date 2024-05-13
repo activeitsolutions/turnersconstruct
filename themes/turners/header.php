@@ -113,6 +113,7 @@
 		</div>
 	<?php } else { ?>
 		<div class="herosmall">
+            <div class="herologo"><img src="images/turnerconstructionlogo-alpha.webp"></div>
 			<span class="herotext"><?php echo $WebsiteTitle; ?></span>
 		</div>
 	<?php } ?>
