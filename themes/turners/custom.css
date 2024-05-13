@@ -80,7 +80,7 @@ a:hover {
     transition: text-shadow .3s ease-in-out;
 }
 
-a::before {
+a:before {
     content: '';
     position: absolute;
     width: 100%;
@@ -280,7 +280,7 @@ span.herotext {
 	line-height: normal;
 	position: relative;
 	float: left;
-	top: 40%;
+	top: 35%;
 	left: 50%;
 	transform: translate(-50%, -50%);
 }
@@ -294,7 +294,7 @@ span.herosubtext {
 	line-height: normal;
 	position: relative;
 	float: left;
-	top: 40%;
+	top: 35%;
 	left: 50%;
 	transform: translate(-50%, -50%);
 }
@@ -306,6 +306,7 @@ div.herologo img {
     border: none;
     
 }
+
 /*********************************************
 * 13. Content Containers
 **********************************************/
@@ -418,7 +419,35 @@ input[type="submit"]:hover {
 }
 
 /*********************************************
-* 17. Input Fields
+* 17. Call to Action Buttons
+**********************************************/
+
+.ctabutton {
+    display:initial !important;
+    background-color: rgba(154,138,120,0.25); /* Green */
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: all .3s ease-in-out;
+	text-shadow: 2px 2px 1px #000;
+	box-shadow: 0px 0px 0px #000;
+}
+
+.ctabutton:hover {
+    background-color: rgba(154,138,120,0.5); /* Darker green */
+	box-shadow: 0px 0px 15px #000;
+    transition: all .3s ease-in-out;
+}
+
+.ctabutton a {
+    color: #fff;
+}
+
+/*********************************************
+* 18. yBox Alterations
 **********************************************/
 .yBoxImgZoom .ybox-img-title {
     background:rgba(0,0,0,0.6);

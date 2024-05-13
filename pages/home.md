@@ -18,6 +18,41 @@
 ## Our Services
 At Turner's Construction Services, we offer a wide range of services to meet all of your construction and remodeling needs. From kitchen and bathroom remodeling to water damage remediation and mold removal, drywall repairs, custom tile showers and floors, plumbing, electrical and many other trades. We work diligently to complete the job in a timely manner. Contact us today to learn more.
 
+</br>
+<div class="center textalign-center"><a href=""><span class="ctabutton disable-scrolling-underline">Learn More</span></a></div>
+
+</div>
+</div>
+</br>
+
+<div class="row">
+<div class="column textalign-center flex-basis-150">
+
+<span style="font-size: 8vmin"><i class="fa fa-home" aria-hidden="true"></i></span>
+
+Why Choose Turner's Construction Services?
+
+</div>
+<div class="column textalign-center flex-basis-150">
+
+<span style="font-size: 8vmin"><i class="fa fa-users" aria-hidden="true"></i></span>
+
+Professional Team
+    
+</div>
+<div class="column textalign-center flex-basis-150">
+
+<span style="font-size: 8vmin"><i class="fa fa-th" aria-hidden="true"></i></span>
+
+High Quality Finish
+    
+</div>
+<div class="column textalign-center flex-basis-150">
+
+<span style="font-size: 8vmin"><i class="fa fa-university" aria-hidden="true"></i></span>
+
+Sustainable and Accountable
+    
 </div>
 </div>
 
@@ -26,16 +61,20 @@ At Turner's Construction Services, we offer a wide range of services to meet all
 
 ## About Us
 At Turner's Construction Services, we are dedicated to providing our clients with the highest quality construction and remodeling services. Our team of experts has years of experience in the industry, and we pride ourselves on our attention to detail and commitment to customer satisfaction. Contact us today to learn more about how we can help you bring your construction and remodeling dreams to life.
-    
+
+</br>
+<div class="center textalign-center"><a href=""><span class="ctabutton disable-scrolling-underline">Learn More</span></a></div>
+
 </div>
 <div class="column col-6">
+</br>
 
 ![Chris Turner](pages/images/housefront.webp){.medium}
 
 
 </div>
 </div>
-
+</br>
 
 ## Our Core Values
 At our core, we are driven by a set of unwavering values that guide every aspect of our work:
@@ -111,6 +150,10 @@ We set high standards for ourselves and continuously strive for excellence in ev
 <a href="pages/images/landing-page-gallery/landing-gallery-5.webp" data-ybox-group="ourwork" data-ybox-alt="Image Alt" data-ybox-title="Image5" class="yBox"><img src="pages/images/landing-page-gallery/landing-gallery-5.webp"></a>
     </div>
 </div>
+</br>
+
+<div class="center textalign-center"><a href=""><span class="ctabutton disable-scrolling-underline">Learn More</span></a></div>
+</br>
 
 <h3 class="textalign-center">Testimonials</h2>
 
