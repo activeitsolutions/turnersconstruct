@@ -108,13 +108,17 @@
 	<?php if ($pagename == "home") { ?>
 		<div class="hero">
             <div class="herologo"><img src="images/turnerconstructionlogo-alpha.webp"></div>
-			<span class="herotext"><?php echo $WebsiteTitle; ?></span>
-            <span class="herosubtext">Full Service Kitchen and Bathroom Remodeling Contractor</span>
+            <div class="herocontainer">
+                <span class="herotext"><?php echo $WebsiteTitle; ?></span></br>
+                <span class="herosubtext">Full Service Kitchen and Bathroom Remodeling Contractor</span>
+            </div>
 		</div>
 	<?php } else { ?>
 		<div class="herosmall">
             <div class="herologo"><img src="images/turnerconstructionlogo-alpha.webp"></div>
-			<span class="herotext"><?php echo $WebsiteTitle; ?></span>
+            <div class="herocontainer">
+                <span class="herotext"><?php echo $WebsiteTitle; ?></span></br>
+            </div>
 		</div>
 	<?php } ?>
 	</div>

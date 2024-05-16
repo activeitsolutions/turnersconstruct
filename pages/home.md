@@ -7,7 +7,8 @@
 <!-- pageauthor: -->
 <!-- pagetype:website -->
 
-<div class="row">
+<div class="elementcontainer clearfix">
+<div class="row alignitems-vertical">
 <div class="column col-6">
 
 ![Chris Turner](pages/images/ChrisTurner.webp){.medium}
@@ -24,9 +25,10 @@ At Turner's Construction Services, we offer a wide range of services to meet all
 
 </div>
 </div>
-</br>
+</div>
 
-<div class="row">
+<div class="elementcontainer">
+<div class="row alignitems-vertical">
 <div class="column textalign-center flex-basis-150">
 
 <span style="font-size: 8vmin"><i class="fa fa-home" aria-hidden="true"></i></span>
@@ -56,8 +58,10 @@ Sustainable and Accountable
     
 </div>
 </div>
+</div>
 
-<div class="row">
+<div class="elementcontainer">
+<div class="row alignitems-vertical">
 <div class="column col-6 textalign-left">
 
 ## About Us
@@ -76,12 +80,13 @@ At Turner's Construction Services, we are dedicated to providing our clients wit
 
 </div>
 </div>
-</br>
+</div>
+<div class="elementcontainer">
 
 ## Our Core Values
 At our core, we are driven by a set of unwavering values that guide every aspect of our work:
 
-<div class="row">
+<div class="row alignitems-vertical">
 <div class="column col-6">
 
 ###### Integrity
@@ -94,7 +99,7 @@ We believe in honesty, transparency, and ethical conduct in all our interactions
 </div>
 </div>
 
-<div class="row">
+<div class="row alignitems-vertical">
 <div class="column col-6">
 
 ###### Communication
@@ -107,7 +112,7 @@ Effective communication is the key to success. We prioritize open and clear comm
 </div>
 </div>
 
-<div class="row">
+<div class="row alignitems-vertical">
 <div class="column col-6">
 
 ###### Commitment
@@ -120,7 +125,7 @@ We are dedicated to delivering results that exceed expectations. Our unwavering 
 </div>
 </div>
 
-<div class="row">
+<div class="row alignitems-vertical">
 <div class="column col-6">
 
 ###### Excellence
@@ -132,10 +137,12 @@ We set high standards for ourselves and continuously strive for excellence in ev
 
 </div>
 </div>
+</div>
+<div class="elementcontainer">
 
 ## Our Work
 
-<div class="row">
+<div class="row alignitems-vertical">
     <div class="column flex-basis-300">
 <a href="pages/images/landing-page-gallery/landing-gallery-1.webp" data-ybox-group="ourwork" data-ybox-alt="Image Alt" data-ybox-title="Image1" class="yBox"><img src="pages/images/landing-page-gallery/landing-gallery-1.webp"></a>
     </div>
@@ -155,11 +162,13 @@ We set high standards for ourselves and continuously strive for excellence in ev
 </br>
 
 <div class="center textalign-center"><a href=""><span class="ctabutton disable-scrolling-underline">Learn More</span></a></div>
-</br>
 
-<h3 class="textalign-center">Testimonials</h2>
+</div>
+<div class="elementcontainer">
 
-<div class="row">
+<h3>Testimonials</h2>
+
+<div class="row alignitems-vertical">
 <div class="column flex-basis-300 textalign-left">
 
 "Turner's Construction Services did an amazing job on my kitchen remodel. They were professional, reliable, and completed the job on time and within budget."
@@ -174,6 +183,7 @@ We set high standards for ourselves and continuously strive for excellence in ev
 
 "I recently hired Turner's Construction Services to remodel my bathroom and I couldn't be happier with the results. Their team was friendly, professional, and went above and beyond to ensure that the job was done correctly."
 
+</div>
 </div>
 </div>
 

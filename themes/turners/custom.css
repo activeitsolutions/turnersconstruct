@@ -39,6 +39,7 @@ body {
 
 p {
 	text-shadow: 2px 2px 1px #000;
+    padding: 10px;
 }
 
 /*********************************************
@@ -108,7 +109,7 @@ a:hover::before {
 **********************************************/
 .pagetitle h1 {
 	max-width: 100%;
-	border-bottom: 1px solid #E1E1E1;
+	/* border-bottom: 1px solid #E1E1E1; */
 	margin-bottom: 40px;
 }
 
@@ -116,12 +117,16 @@ a:hover::before {
 * 5. Headings
 **********************************************/
 h1, h2, h3, h4, h5, h6 {
-    /* border-bottom: 1px solid rgba(154,138,120,0.5); */
 	text-shadow: 2px 2px 1px #000;
+    padding: 5px;
 }
 
 .noborder {
     border: none
+}
+
+.underline {
+    border-bottom: 1px solid rgba(154,138,120,0.5);
 }
 
 /*********************************************
@@ -263,21 +268,18 @@ ol, ul {
 	background-color: rgba(50,50,50,1);
 	width: 100vmax;
 	max-width: 100%;
-	height: calc(100vmin - 66px);
+	height: calc(100vmin - 72px);
     box-shadow: 0px 2px 5px rgba(0,0,0,0.2)
 }
 
 .herosmall {
-	height: calc(25vmin + 66px);
+	height: calc(25vmin + 72px);
 }
 
-span.herotext {
-	font-size: 10vmin;
-	color: #fff;
-	text-shadow: 3px 3px 2px #000;
+.herocontainer {
+    display:block;
 	text-align: center;
     margin: 0;
-	line-height: normal;
 	position: relative;
 	float: left;
 	top: 50%;
@@ -285,25 +287,27 @@ span.herotext {
 	transform: translate(-50%, -50%);
 }
 
+.herotext {
+	font-size: 10vmin;
+	color: #fff;
+	text-shadow: 3px 3px 2px #000;
+	text-align: center;
+	line-height: normal;
+}
+
 span.herosubtext {
 	font-size: 4vmin;
 	color: #fff;
 	text-shadow: 3px 3px 2px #000;
 	text-align: center;
-    margin: 0;
 	line-height: normal;
-	position: relative;
-	float: left;
-	top: 45%;
-	left: 50%;
-	transform: translate(-50%, -50%);
 }
 
 div.herologo img {
     position: absolute;
-    margin-top: 20px;
-    margin-left: 20px;
-    max-width: 300px;
+    margin-top: 1vmin;
+    margin-left: 1vmin;
+    max-width: 20vmax;
     border: none;
     
 }
@@ -332,6 +336,12 @@ div.herologo img {
 	max-width: 1800px;
 	margin-left: auto;
 	margin-right: auto;
+}
+
+.elementcontainer {
+    display:block;
+    margin-top:150px;
+    margin-bottom:150px;
 }
 
 /*********************************************
@@ -425,11 +435,12 @@ input[type="submit"]:hover {
 **********************************************/
 
 .ctabutton {
-    display:initial !important;
+    display: block;
     background-color: rgba(154,138,120,0.25); /* Green */
     color: white;
     padding: 14px 20px;
-    margin: 8px 0;
+    margin: 8px auto;
+    max-width: max-content;
     border: none;
     border-radius: 4px;
     cursor: pointer;
@@ -453,4 +464,11 @@ input[type="submit"]:hover {
 **********************************************/
 .yBoxImgZoom .ybox-img-title {
     background:rgba(0,0,0,0.6);
+}
+
+/*********************************************
+* 18. FlexBox Alterations
+**********************************************/
+.alignitems-vertical {
+    align-items: center;
 }

@@ -19,7 +19,7 @@
 html {
 	/* Change default typefaces here */
 	font-family: sans-serif;
-	font-size: 137.5%;
+	font-size: 3vmin;
 	-webkit-font-smoothing: antialiased;
 }
 
@@ -38,7 +38,7 @@ a:hover {
 **********************************************/
 p {
 	line-height: 1.5rem;
-	margin-top: 1vmin;
+	margin-top: 0vmin;
 	margin-bottom: 0;
 }
 ul,
@@ -117,7 +117,7 @@ h6 {
 	font-family: sans-serif;
     margin-bottom: 0;
 	line-height: 1.5rem;
-	margin-top: 1.5rem;
+	margin-top: 0rem;
 }
 h1 {
 	font-size: 6vmin;

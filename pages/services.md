@@ -7,14 +7,14 @@
 <!-- pageauthor: -->
 <!-- pagetype:website -->
 
-<div class="row">
-<div class="column textalign-left flex-basis-600">
+<div class="row alignitems-vertical">
+<div class="column col-4 textalign-left flex-basis-600">
 </br>
 
 ![Remodel](pages/images/services/ourservices1.webp)
 
 </div>
-<div class="column textalign-left flex-basis-600">
+<div class="column col-8 textalign-left textalign-vertical flex-basis-600">
 
 ### Complete Remodeling
 
