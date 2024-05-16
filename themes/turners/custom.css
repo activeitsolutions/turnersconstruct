@@ -37,11 +37,6 @@ body {
     100% { opacity: 1; }
 }
 
-p {
-	text-shadow: 2px 2px 1px #000;
-    padding: 10px;
-}
-
 /*********************************************
 * 2. Meta Information Overlay
 **********************************************/
@@ -127,6 +122,43 @@ h1, h2, h3, h4, h5, h6 {
 
 .underline {
     border-bottom: 1px solid rgba(154,138,120,0.5);
+}
+
+@media only screen and (max-width : 480px) {
+/* Mobile */
+    h1 {
+        font-size: 8vmin;
+        line-height: 8.5vmin;
+    }
+    h2 {
+        font-size: 7.5vmin;
+        line-height: 8vmin;
+    }
+    h3 {
+        font-size: 7vmin;
+        line-height: 7.5vmin;
+    }
+    h4 {
+        font-size: 6.5vmin;
+        line-height: 7vmin;
+    }
+    h5 {
+        font-size: 6vmin;
+        line-height: 6.5vmin;
+    }
+    h6 {
+        font-size: 5.5vmin;
+        line-height: 6vmin;
+    }
+}
+
+/*********************************************
+* 5-1. Copy
+**********************************************/
+@media only screen and (max-width : 480px) {
+    html {
+        font-size: 4.5vmin;
+    }
 }
 
 /*********************************************
@@ -219,7 +251,7 @@ img.cover {
 }
 
 /*********************************************
-* 10. Padding
+* 10. Padding and Margins
 **********************************************/
 .padding-5px {
 	padding: 5px;
@@ -235,6 +267,10 @@ img.cover {
 
 .padding-50px {
 	padding: 50px;
+}
+
+.no-top-margin {
+    margin-top:0 !important;
 }
 
 /*********************************************
@@ -268,18 +304,18 @@ ol, ul {
 	background-color: rgba(50,50,50,1);
 	width: 100vmax;
 	max-width: 100%;
-	height: calc(100vmin - 7.80vmin);
+	height: calc(100vmin - 72px);
     box-shadow: 0px 2px 5px rgba(0,0,0,0.2)
 }
 
-@media only screen and (max-width : 1000px) {
+@media only screen and (max-width : 480px) {
     .hero, .herosmall {
-        height: calc(200vmin - 7.80vmin);
+        height: calc(200vmin - 72px);
     }
 }
 
 .herosmall {
-	height: calc(25vmin + 7.80vmin);
+	height: calc(25vmin + 72px);
 }
 
 .herocontainer {
@@ -477,4 +513,11 @@ input[type="submit"]:hover {
 **********************************************/
 .alignitems-vertical {
     align-items: center;
+}
+
+/*********************************************
+* 18. StellarNav Alterations
+**********************************************/
+.stellarnav {
+    // min-height: 72px;
 }

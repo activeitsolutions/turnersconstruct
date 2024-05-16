@@ -7,7 +7,7 @@
 <!-- pageauthor: -->
 <!-- pagetype:website -->
 
-<div class="elementcontainer clearfix">
+<div class="elementcontainer no-top-margin">
 <div class="row alignitems-vertical">
 <div class="column col-6">
 
