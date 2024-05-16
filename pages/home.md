@@ -19,6 +19,7 @@
 At Turner's Construction Services, we offer a wide range of services to meet all of your construction and remodeling needs. From kitchen and bathroom remodeling to water damage remediation and mold removal, drywall repairs, custom tile showers and floors, plumbing, electrical and many other trades. We work diligently to complete the job in a timely manner. Contact us today to learn more.
 
 </br>
+</br>
 <div class="center textalign-center"><a href=""><span class="ctabutton disable-scrolling-underline">Learn More</span></a></div>
 
 </div>
@@ -63,6 +64,7 @@ Sustainable and Accountable
 At Turner's Construction Services, we are dedicated to providing our clients with the highest quality construction and remodeling services. Our team of experts has years of experience in the industry, and we pride ourselves on our attention to detail and commitment to customer satisfaction. Contact us today to learn more about how we can help you bring your construction and remodeling dreams to life.
 
 </br>
+</br>
 <div class="center textalign-center"><a href=""><span class="ctabutton disable-scrolling-underline">Learn More</span></a></div>
 
 </div>
@@ -82,7 +84,7 @@ At our core, we are driven by a set of unwavering values that guide every aspect
 <div class="row">
 <div class="column col-6">
 
-### Integrity
+###### Integrity
 
 </div>
 <div class="column col-6 textalign-left">
@@ -95,7 +97,7 @@ We believe in honesty, transparency, and ethical conduct in all our interactions
 <div class="row">
 <div class="column col-6">
 
-### Communication
+###### Communication
 
 </div>
 <div class="column col-6 textalign-left">
@@ -108,7 +110,7 @@ Effective communication is the key to success. We prioritize open and clear comm
 <div class="row">
 <div class="column col-6">
 
-### Commitment
+###### Commitment
 
 </div>
 <div class="column col-6 textalign-left">
@@ -121,7 +123,7 @@ We are dedicated to delivering results that exceed expectations. Our unwavering 
 <div class="row">
 <div class="column col-6">
 
-### Excellence
+###### Excellence
 
 </div>
 <div class="column col-6 textalign-left">

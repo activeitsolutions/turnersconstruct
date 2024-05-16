@@ -116,7 +116,7 @@ a:hover::before {
 * 5. Headings
 **********************************************/
 h1, h2, h3, h4, h5, h6 {
-    border-bottom: 1px solid rgba(154,138,120,0.5);
+    /* border-bottom: 1px solid rgba(154,138,120,0.5); */
 	text-shadow: 2px 2px 1px #000;
 }
 
@@ -315,10 +315,11 @@ div.herologo img {
     background: #262626;
     padding: 30px;
     position: relative;
-	max-width: 1280px;
+	/* max-width: 1280px; */
 	margin-top: 20px;
 	margin-left: auto;
 	margin-right: auto;
+	margin-bottom: 20px;
 }
 
 @media only screen and (max-width : 1000px) {
@@ -328,7 +329,7 @@ div.herologo img {
 }
 
 .content {
-	max-width: 1280px;
+	max-width: 1800px;
 	margin-left: auto;
 	margin-right: auto;
 }
