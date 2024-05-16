@@ -268,18 +268,18 @@ ol, ul {
 	background-color: rgba(50,50,50,1);
 	width: 100vmax;
 	max-width: 100%;
-	height: calc(100vmin - 72px);
+	height: calc(100vmin - 7.80vmin);
     box-shadow: 0px 2px 5px rgba(0,0,0,0.2)
 }
 
 @media only screen and (max-width : 1000px) {
     .hero, .herosmall {
-        height: calc(200vmin - 84px);
+        height: calc(200vmin - 7.80vmin);
     }
 }
 
 .herosmall {
-	height: calc(25vmin + 72px);
+	height: calc(25vmin + 7.80vmin);
 }
 
 .herocontainer {
