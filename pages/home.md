@@ -1,7 +1,7 @@
 <!-- pagetitle:Turner's Construction Services -->
 <!-- pagelayout:page-notitle -->
 <!-- pagedate: -->
-<!-- pagethumbnail:images/heroimage.webp -->
+<!-- pageimage:images/heroimage.webp -->
 <!-- pageexcerpt: -->
 <!-- pagekeywords: -->
 <!-- pageauthor: -->
