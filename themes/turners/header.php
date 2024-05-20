@@ -104,7 +104,8 @@
 	
 	<!-- Beginning of actual page layout
 	–––––––––––––––––––––––––––––––––––––––––––––––––– -->
-	<div class="header">	
+    <?php include 'navigation.php'; ?>
+	<div class="header">
 	<?php if ($pagename == "home") { ?>
 		<div class="hero">
             <div class="herologo"><img src="images/turnerconstructionlogo-alpha.webp"></div>
@@ -123,8 +124,6 @@
 	<?php } ?>
 	</div>
 	
-
-<?php include 'navigation.php'; ?>
 <?php if (!isset($pagelayout) || $pagelayout == "") { $pagelayout = "page"; } /* Set pagelayout to basic page if it isn't explicitly set */ ?>
 <?php include $pagelayout . ".php" ?>
 <?php include 'footer.php'; ?>

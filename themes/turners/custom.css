@@ -305,7 +305,7 @@ ol, ul {
 	width: 100vmax;
 	max-width: 100%;
 	height: calc(100vmin - 72px);
-    box-shadow: 0px 2px 5px rgba(0,0,0,0.2)
+    box-shadow: 0px 2px 5px rgba(0,0,0,1)
 }
 
 @media only screen and (max-width : 480px) {
