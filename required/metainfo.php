@@ -5,7 +5,7 @@
 		<strong>PageTitle:</strong> <?php echo $pagetitle; ?></br>
 		<strong>Layout:</strong> <?php echo $pagelayout; ?></br>
 		<strong>Date:</strong> <?php echo $pagedate; ?></br>
-		<strong>Thumbnail:</strong> <?php echo $pageimage; ?></br>
+		<strong>Thumbnail:</strong> <?php echo $WebsiteURL . "/" . $pageimage; ?></br>
 		<strong>Excerpt:</strong> <?php echo $pageexcerpt; ?></br>
 		<strong>Keywords:</strong> <?php echo $pagekeywords; ?></br>
 		<strong>Author:</strong> <?php echo $pageauthor; ?></br>

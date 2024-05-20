@@ -51,7 +51,7 @@
 	
 	<?php /* Set a default image */ ?>
 	<?php if ($pageimage == "") { $pageimage = $WebsiteImage; } ?>
-	<meta property="og:image" content="<?php echo $pageimage; ?>">
+	<meta property="og:image" content="<?php echo $WebsiteURL . "/" . $pageimage; ?>">
 	
 	<?php /* Set a default pagetype (E.G. website, article, blog, profile, video, music, book, product) */ ?>
 	<?php if ($pagetype == "") { $pagetype = "website"; }?>
