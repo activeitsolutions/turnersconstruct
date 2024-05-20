@@ -108,10 +108,20 @@
 	<div class="header">
 	<?php if ($pagename == "home") { ?>
 		<div class="hero">
-            <div class="herologo"><img src="images/turnerconstructionlogo-alpha.webp"></div>
+            <div class="herologo">
+                <img src="images/turnerconstructionlogo-alpha.webp">
+            </div>
+            <div style="clear:both"></div>
             <div class="herocontainer">
                 <span class="herotext"><?php echo $WebsiteTitle; ?></span></br>
                 <span class="herosubtext">Full Service Kitchen and Bathroom Remodeling Contractor</span>
+                
+            </div>
+            <div style="clear:both"></div>
+            <div class="herodownarrowcontainer textalign-center">
+                <div class="arrow bounce">
+                    <a href="#OurServices"><i class="fa fa-angle-double-down" aria-hidden="true"></i></a>
+                </div>
             </div>
 		</div>
 	<?php } else { ?>
