@@ -109,7 +109,7 @@
 	<?php if ($pagename == "home") { ?>
 		<div class="hero">
             <div class="herologo">
-                <img src="images/turnerconstructionlogo-alpha.webp">
+                <img src="images/TurnersConstructWebLogo.webp">
             </div>
             <div style="clear:both"></div>
             <div class="herocontainer">
@@ -126,7 +126,7 @@
 		</div>
 	<?php } else { ?>
 		<div class="herosmall">
-            <div class="herologo"><img src="images/turnerconstructionlogo-alpha.webp"></div>
+            <div class="herologo"><img src="images/TurnersConstructWebLogo.webp"></div>
             <div class="herocontainer">
                 <span class="herotext"><?php echo $WebsiteTitle; ?></span></br>
             </div>
