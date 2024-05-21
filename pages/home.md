@@ -22,7 +22,7 @@ At Turner's Construction Services, we offer a wide range of services to meet all
 
 </br>
 </br>
-<div class="center textalign-center"><a href=""><span class="ctabutton disable-scrolling-underline">Learn More</span></a></div>
+<div class="center textalign-center"><a class="disable-scrolling-underline" href=""><span class="ctabutton">Learn More</span></a></div>
 
 </div>
 </div>
@@ -70,7 +70,7 @@ At Turner's Construction Services, we are dedicated to providing our clients wit
 
 </br>
 </br>
-<div class="center textalign-center"><a href=""><span class="ctabutton disable-scrolling-underline">Learn More</span></a></div>
+<div class="center textalign-center"><a class="disable-scrolling-underline" href=""><span class="ctabutton disable-scrolling-underline">Learn More</span></a></div>
 
 </div>
 <div class="column col-6">
@@ -162,7 +162,7 @@ We set high standards for ourselves and continuously strive for excellence in ev
 </div>
 </br>
 
-<div class="center textalign-center"><a href=""><span class="ctabutton disable-scrolling-underline">Learn More</span></a></div>
+<div class="center textalign-center"><a class="disable-scrolling-underline" href=""><span class="ctabutton disable-scrolling-underline">Learn More</span></a></div>
 
 </div>
 <div class="elementcontainer">

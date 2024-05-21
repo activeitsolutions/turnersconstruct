@@ -120,7 +120,7 @@
             <div style="clear:both"></div>
             <div class="herodownarrowcontainer textalign-center">
                 <div class="arrow bounce">
-                    <a href="#OurServices"><i class="fa fa-angle-double-down" aria-hidden="true"></i></a>
+                    <a class="disable-scrolling-underline" href="#OurServices"><i class="fa fa-angle-double-down" aria-hidden="true"></i></a>
                 </div>
             </div>
 		</div>

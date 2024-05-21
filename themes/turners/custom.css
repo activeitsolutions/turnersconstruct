@@ -100,6 +100,12 @@ a:hover::before {
     transform: scaleX(1);
 }
 
+.disable-scrolling-underline::before {
+    content: none;
+    transform: none;
+
+}
+
 /*********************************************
 * 4. Page Titles
 **********************************************/
