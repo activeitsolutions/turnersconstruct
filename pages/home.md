@@ -28,7 +28,7 @@ At Turner's Construction Services, we offer a wide range of services to meet all
 </div>
 </div>
 
-<div class="elementcontainer">
+<div class="elementcontainer dark">
 <div class="row alignitems-vertical">
 <div class="column textalign-center flex-basis-150">
 
@@ -82,7 +82,7 @@ At Turner's Construction Services, we are dedicated to providing our clients wit
 </div>
 </div>
 </div>
-<div class="elementcontainer">
+<div class="elementcontainer dark">
 
 ## Our Core Values
 At our core, we are driven by a set of unwavering values that guide every aspect of our work:
@@ -165,7 +165,7 @@ We set high standards for ourselves and continuously strive for excellence in ev
 <div class="center textalign-center"><a class="disable-scrolling-underline" href=""><span class="ctabutton disable-scrolling-underline">Learn More</span></a></div>
 
 </div>
-<div class="elementcontainer">
+<div class="elementcontainer dark">
 
 <h3>Testimonials</h2>
 
