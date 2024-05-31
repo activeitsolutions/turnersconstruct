@@ -393,13 +393,11 @@ div.herologo img {
 **********************************************/
 .contentcontainer {
     background: #262626;
-    padding: 30px;
     position: relative;
 	/* max-width: 1280px; */
-	margin-top: 20px;
+
 	margin-left: auto;
 	margin-right: auto;
-	margin-bottom: 20px;
 }
 
 @media only screen and (max-width : 1000px) {
@@ -410,8 +408,11 @@ div.herologo img {
 
 .content {
 	max-width: 1800px;
+    padding: 30px;
+	margin-top: 20px;
 	margin-left: auto;
 	margin-right: auto;
+	margin-bottom: 20px;
 }
 
 .elementcontainer {
@@ -420,13 +421,15 @@ div.herologo img {
     margin-bottom:150px;
 }
 
-/*
+
 .dark {
     background-color: #191919;
-    margin: -30px;
+    margin: -52px;
     padding: 50px;
+    overflow-x: hidden;
+    /* box-shadow: 0px 0px 5px rgba(0,0,0,0.2); */
 }
-*/
+
 
 /*********************************************
 * 14. Footer Containers

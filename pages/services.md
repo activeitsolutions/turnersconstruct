@@ -120,7 +120,7 @@ Unlock the full potential of your home with our room expansion services. Whether
 </div>
 </div>
 </div>
-<div class="elementcontainer">
+<div class="elementcontainer dark">
 <div class="row alignitems-vertical">
 <div class="column col-8 textalign-left flex-basis-600">
 
@@ -136,7 +136,7 @@ When it comes to removing load-bearing walls, structural integrity is paramount.
 </div>
 </div>
 </div>
-<div class="elementcontainer dark">
+<div class="elementcontainer">
 <div class="row alignitems-vertical">
 <div class="column col-4 textalign-left flex-basis-600">
 
@@ -152,7 +152,7 @@ Our team of experts has extensive experience in pre-construction planning, inclu
 </div>
 </div>
 </div>
-<div class="elementcontainer">
+<div class="elementcontainer dark">
 <div class="row alignitems-vertical">
 <div class="column col-8 textalign-left flex-basis-600">
 
@@ -168,7 +168,7 @@ Our team is committed to ensuring that every project meets our high standards fo
 </div>
 </div>
 </div>
-<div class="elementcontainer dark">
+<div class="elementcontainer">
 <div class="row alignitems-vertical">
 <div class="column col-4 textalign-left flex-basis-600">
 
