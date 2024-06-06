@@ -12,7 +12,7 @@
 <div class="row alignitems-vertical">
 <div class="column col-6">
 
-![Chris Turner](pages/images/ChrisTurner.webp){.medium}
+![Chris Turner](pages/images/ChrisTurner.webp)
     
 </div>
 <div class="column col-6 textalign-left">
@@ -76,7 +76,7 @@ At Turner's Construction Services, we are dedicated to providing our clients wit
 <div class="column col-6">
 </br>
 
-![Chris Turner](pages/images/housefront.webp){.medium}
+![Chris Turner](pages/images/housefront.webp)
 
 
 </div>
