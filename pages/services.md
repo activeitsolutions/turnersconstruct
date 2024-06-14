@@ -1,7 +1,7 @@
 <!-- pagetitle:Our Services -->
 <!-- pagelayout:page-html -->
 <!-- pagedate: -->
-<!-- pagethumbnail:images/heroimage.webp -->
+<!-- pageimage:pages/images/services/ourservices1.webp -->
 <!-- pageexcerpt: -->
 <!-- pagekeywords: -->
 <!-- pageauthor: -->
@@ -10,7 +10,7 @@
 <div class="elementcontainer no-top-margin">
 	<div class="row alignitems-vertical">
 		<div class="column col-4 textalign-left flex-basis-600">
-			<img alt="Remodel" src="pages/images/services/ourservices1.webp">
+			<img alt="Complete Remodeling" src="pages/images/services/ourservices1.webp">
 		</div>
 		<div class="column col-8 textalign-left textalign-vertical flex-basis-600">
 			<h3>Complete Remodeling</h3>
@@ -25,14 +25,14 @@
 			Our team of skilled professionals is here to help you with any kitchen remodeling project. From updating your countertops to installing new cabinets and appliances, we'll work with you to create the kitchen of your dreams.
 		</div>
 		<div class="column col-4 textalign-left textalign-vertical flex-basis-600">
-			<img alt="Remodel" src="pages/images/services/kitchenremodel.webp">
+			<img alt="Kitchen Remodeling" src="pages/images/services/kitchenremodel.webp">
 		</div>
 	</div>
 </div>
 <div class="elementcontainer">
 	<div class="row alignitems-vertical">
 		<div class="column col-4 textalign-left flex-basis-600">
-			<img alt="Remodel" src="pages/images/services/homeinterior.webp">
+			<img alt="Home Interior Services" src="pages/images/services/homeinterior.webp">
 		</div>
 		<div class="column col-8 textalign-left textalign-vertical flex-basis-600">
 			<h3>Home Interior</h3>
@@ -47,14 +47,14 @@
 			Whether you're looking to install new hardwood floors or replace your old carpeting, we've got you covered. Our team has the expertise to handle any flooring project, big or small.
 		</div>
 		<div class="column col-4 textalign-left textalign-vertical flex-basis-600">
-			<img alt="Remodel" src="pages/images/services/flooring.webp">
+			<img alt="Flooring Installations" src="pages/images/services/flooring.webp">
 		</div>
 	</div>
 </div>
 <div class="elementcontainer">
 	<div class="row alignitems-vertical">
 		<div class="column col-4 textalign-left flex-basis-600">
-			<img alt="Remodel" src="pages/images/services/bathroomremodeling.webp">
+			<img alt="Bathroom Remodeling and Renovations" src="pages/images/services/bathroomremodeling.webp">
 		</div>
 		<div class="column col-8 textalign-left flex-basis-600">
 			<h3>Bathroom Remodeling</h3>
@@ -69,14 +69,14 @@
 			Our expert team specializes in seamlessly removing walls to transform your space, whether you're seeking to open up your living area, create a brighter environment, or redefine room layouts. With meticulous planning and precise execution, we ensure that your vision comes to life safely and efficiently, leaving you with a refreshed and revitalized space to enjoy.
 		</div>
 		<div class="column col-4 textalign-left flex-basis-600">
-			<img alt="Remodel" src="pages/images/services/wallremoval.webp">
+			<img alt="Wall Removal" src="pages/images/services/wallremoval.webp">
 		</div>
 	</div>
 </div>
 <div class="elementcontainer">
 	<div class="row alignitems-vertical">
 		<div class="column col-4 textalign-left flex-basis-600">
-			<img alt="Remodel" src="pages/images/services/roomexpansion.webp">
+			<img alt="Room Expansion" src="pages/images/services/roomexpansion.webp">
 		</div>
 		<div class="column col-8 textalign-left flex-basis-600">
 			<h3>Room Expansion</h3>
@@ -91,14 +91,14 @@
 			When it comes to removing load-bearing walls, structural integrity is paramount. Our team of skilled professionals employs advanced techniques and engineering expertise to provide robust support solutions that ensure the safety and stability of your home. From installing steel beams to implementing innovative support systems, we deliver meticulous craftsmanship and peace of mind every step of the way.
 		</div>
 		<div class="column col-4 textalign-left flex-basis-600">
-			<img alt="Remodel" src="pages/images/services/ourservices3.webp">
+			<img alt="Wall Supports for Removing Load Bearing Wall" src="pages/images/services/ourservices3.webp">
 		</div>
 	</div>
 </div>
 <div class="elementcontainer">
 	<div class="row alignitems-vertical">
 		<div class="column col-4 textalign-left flex-basis-600">
-			<img alt="Remodel" src="pages/images/services/preconstruction.webp">
+			<img alt="Pre-Construction" src="pages/images/services/preconstruction.webp">
 		</div>
 		<div class="column col-8 textalign-left flex-basis-600">
 			<h3>Pre-Construction</h3>
@@ -113,14 +113,14 @@
 			Our team is committed to ensuring that every project meets our high standards for quality and safety. We carefully manage every aspect of the construction process, including subcontractor management and safety management.
 		</div>
 		<div class="column col-4 textalign-left flex-basis-600">
-			<img alt="Remodel" src="pages/images/services/construction.webp">
+			<img alt="Construction" src="pages/images/services/construction.webp">
 		</div>
 	</div>
 </div>
 <div class="elementcontainer">
 	<div class="row alignitems-vertical">
 		<div class="column col-4 textalign-left flex-basis-600">
-			<img alt="Remodel" src="pages/images/services/ourservices2.webp">
+			<img alt="Post-Construction" src="pages/images/services/ourservices2.webp">
 		</div>
 		<div class="column col-8 textalign-left flex-basis-600">
 			<h3>Post-Construction</h3>
