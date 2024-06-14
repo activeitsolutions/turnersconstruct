@@ -145,19 +145,19 @@ We set high standards for ourselves and continuously strive for excellence in ev
 
 <div class="row alignitems-vertical">
     <div class="column flex-basis-300">
-<a href="pages/images/landing-page-gallery/landing-gallery-1.webp" data-ybox-group="ourwork" data-ybox-alt="Image Alt" data-ybox-title="Image1" class="yBox"><img src="pages/images/landing-page-gallery/landing-gallery-1.webp"></a>
+<a href="pages/images/landing-page-gallery/landing-gallery-1.webp" data-ybox-group="ourwork" data-ybox-alt="Kitchen Remodel" data-ybox-title="Kitchen Remodel" class="yBox"><img src="pages/images/landing-page-gallery/landing-gallery-1.webp"></a>
     </div>
     <div class="column flex-basis-300">
-<a href="pages/images/landing-page-gallery/landing-gallery-2.webp" data-ybox-group="ourwork" data-ybox-alt="Image Alt" data-ybox-title="Image2" class="yBox"><img src="pages/images/landing-page-gallery/landing-gallery-2.webp"></a>
+<a href="pages/images/landing-page-gallery/landing-gallery-2.webp" data-ybox-group="ourwork" data-ybox-alt="Bathroom Remodel" data-ybox-title="Bathroom Remodel" class="yBox"><img src="pages/images/landing-page-gallery/landing-gallery-2.webp"></a>
     </div>
     <div class="column flex-basis-300">
-<a href="pages/images/landing-page-gallery/landing-gallery-3.webp" data-ybox-group="ourwork" data-ybox-alt="Image Alt" data-ybox-title="Image3" class="yBox"><img src="pages/images/landing-page-gallery/landing-gallery-3.webp"></a>
+<a href="pages/images/landing-page-gallery/landing-gallery-3.webp" data-ybox-group="ourwork" data-ybox-alt="Kitchen Island" data-ybox-title="Kitchen Island" class="yBox"><img src="pages/images/landing-page-gallery/landing-gallery-3.webp"></a>
     </div>
     <div class="column flex-basis-300">
-<a href="pages/images/landing-page-gallery/landing-gallery-4.webp" data-ybox-group="ourwork" data-ybox-alt="Image Alt" data-ybox-title="Image4" class="yBox"><img src="pages/images/landing-page-gallery/landing-gallery-4.webp"></a>
+<a href="pages/images/landing-page-gallery/landing-gallery-4.webp" data-ybox-group="ourwork" data-ybox-alt="Kitchen Remodel" data-ybox-title="Kitchen Remodel" class="yBox"><img src="pages/images/landing-page-gallery/landing-gallery-4.webp"></a>
     </div>
     <div class="column flex-basis-300">
-<a href="pages/images/landing-page-gallery/landing-gallery-5.webp" data-ybox-group="ourwork" data-ybox-alt="Image Alt" data-ybox-title="Image5" class="yBox"><img src="pages/images/landing-page-gallery/landing-gallery-5.webp"></a>
+<a href="pages/images/landing-page-gallery/landing-gallery-5.webp" data-ybox-group="ourwork" data-ybox-alt="Kitchen Remodel with Island Addition" data-ybox-title="Kitchen Remodel with Island Addition" class="yBox"><img src="pages/images/landing-page-gallery/landing-gallery-5.webp"></a>
     </div>
 </div>
 </br>
