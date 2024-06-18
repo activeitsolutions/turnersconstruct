@@ -3,7 +3,7 @@
         <nav>
         <div class="stellarnav">
 			<?php
-				$navigationFilename = "./pages/navigation.md";
+				$navigationFilename = "./pages/navigation.html";
 				$navigationOutput = file_get_contents($navigationFilename);
 				echo from_markdown($navigationOutput);
 			?>

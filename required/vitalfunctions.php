@@ -2,7 +2,7 @@
 	// This function helps extract special values from a file based on a given pattern
 	function extractValueFromPattern($filename, $pattern) {
 		// Read the content of the Markdown file
-		$markdownContent = file_get_contents("pages/" . $filename . ".md");
+		$markdownContent = file_get_contents("pages/" . $filename . ".html");
 		// Check if the pattern matches any part of the content
 		if (preg_match($pattern, $markdownContent, $matches)) {
 			// If there's a match, return the extracted value (trimmed to remove any extra spaces)

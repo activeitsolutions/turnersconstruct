@@ -67,7 +67,7 @@
 			$pagedate = $outputDateFormat1;
 		} else {
 			// Get the last modified time of the file
-			$pagefilename = "pages/" . $pagename .".md";
+			$pagefilename = "pages/" . $pagename .".html";
 			$lastModifiedTime = filemtime($pagefilename);
 			$lastModifiedDate = date("Y-m-d H:i:s", $lastModifiedTime);
 			$pagedate = $lastModifiedDate;

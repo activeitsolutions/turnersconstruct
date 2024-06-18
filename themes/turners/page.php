@@ -21,7 +21,7 @@
 		<div class="content">
 			<div class="section group">
 					<?php
-						$filename = "./pages/" . $pagename . ".md";
+						$filename = "./pages/" . $pagename . ".html";
 						$output = file_get_contents($filename);
 						echo from_markdown($output);
 					?>

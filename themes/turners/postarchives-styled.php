@@ -24,7 +24,7 @@
 			$fileDetails = array();
 
 			// Loop through each file in the Article folder
-			foreach (glob("pages/$postsFolder/*.md") as $file) {
+			foreach (glob("pages/$postsFolder/*.html") as $file) {
 				// Read the file contents
 				$contents = file_get_contents($file);
 
@@ -63,7 +63,7 @@
 			foreach ($fileDetailsPage as $fileDetail) {
 				echo '<div class="column flex-basis-300">';
 				$dateFormatted = date('m/d/Y', strtotime($fileDetail['date']));
-				echo '<b><a href="' . $postsFolder . '/' . basename($fileDetail['filename'], '.md') . '">' . $fileDetail['title'] . '</a></b> </br> ' . $dateFormatted . '</br>' . 'by <i>' . $fileDetail['author'] . '</i></br>';
+				echo '<b><a href="' . $postsFolder . '/' . basename($fileDetail['filename'], '.html') . '">' . $fileDetail['title'] . '</a></b> </br> ' . $dateFormatted . '</br>' . 'by <i>' . $fileDetail['author'] . '</i></br>';
 				if (file_exists($fileDetail['image'])) {
 					echo '<img src="' . $fileDetail['image'] . '" alt="' . $fileDetail['title'] . '"><br>';
 				} else {

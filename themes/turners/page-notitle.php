@@ -9,7 +9,7 @@
 					<?php
 						//echo $pagename;
 						//echo '<br>';
-						$filename = "./pages/" . $pagename . ".md";
+						$filename = "./pages/" . $pagename . ".html";
 						//echo $filename;
 						$output = file_get_contents($filename);
 						// $parsedown = new Parsedown;

@@ -58,11 +58,11 @@
 	/* Sanity testing to make sure this is working the way we want */
 	
 	//	echo '<pre>'; print_r($files); echo '</pre>';
-	//	echo "pages/" . $requestedPage . ".md";
+	//	echo "pages/" . $requestedPage . ".html";
 	
 
 	// Check if the requested page exists in the list of files. If it doesn't, then force it onto a 404 page.
-	if (!in_array("pages/" . $requestedPage . ".md", $files)) {
+	if (!in_array("pages/" . $requestedPage . ".html", $files)) {
 		header("Location: " . $protocol . $_SERVER['HTTP_HOST'] . "/404");
 		die();
 	}
@@ -70,7 +70,7 @@
 	
 	
 	/* This is a catchall, just in case. There is also another catchall in the config file, just in case this one doesn't do the trick. This is nowhere near as sophisticated as the approach above, but it still could potentially catch things that fell through the cracks */
-	if (!file_exists("pages/" . $requestedPage .".md")) { 
+	if (!file_exists("pages/" . $requestedPage .".html")) { 
 		header("Location: " . $protocol . $_SERVER['HTTP_HOST'] . "/404");
 		die();
 	}

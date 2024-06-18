@@ -9,7 +9,7 @@
 					<?php
 						//echo $pagename;
 						//echo '<br>';
-						$filename = "./pages/" . $pagename . ".md";
+						$filename = "./pages/" . $pagename . ".html";
 						include $filename;
 					?>
 			</div>

@@ -16,7 +16,7 @@
 					$fileDetails = array();
 
 					// Loop through each file in the Article folder
-					foreach (glob("pages/$postsFolder/*.md") as $file) {
+					foreach (glob("pages/$postsFolder/*.html") as $file) {
 						// Read the file contents
 						$contents = file_get_contents($file);
 
@@ -51,7 +51,7 @@
 					/* This is where you would set up the classes for styling the post archives page */
 					foreach ($fileDetailsPage as $fileDetail) {
 						$dateFormatted = date('m/d/Y', strtotime($fileDetail['date']));
-						echo '<a href="' . $postsFolder . '/' . basename($fileDetail['filename'], '.md') . '">' . $fileDetail['title'] . '</a> - ' . $dateFormatted . '<br>';
+						echo '<a href="' . $postsFolder . '/' . basename($fileDetail['filename'], '.html') . '">' . $fileDetail['title'] . '</a> - ' . $dateFormatted . '<br>';
 						if (file_exists($fileDetail['image'])) {
 							echo '<img src="' . $fileDetail['image'] . '" alt="' . $fileDetail['title'] . '"><br>';
 						} else {

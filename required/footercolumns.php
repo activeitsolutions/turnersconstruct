@@ -6,7 +6,7 @@ $sectionTitles = [];
 // Iterate through the range of footer columns
 for ($i = 1; $i <= $numberFooterColumns; $i++) {
     // Generate the file path based on the current iteration
-    $footerFile = "pages/footer/footer{$i}.md";
+    $footerFile = "pages/footer/footer{$i}.html";
 
     // Check if the file exists
     if (file_exists($footerFile)) {
@@ -28,7 +28,7 @@ for ($i = 1; $i <= $numberFooterColumns; $i++) {
         // If the file does not exist, you can handle it here (e.g., display an error message)
         // For now, let's assume an empty content and title
 		$sectionTitles[] = "Section {$i}"; // Default title if not found
-        $footerContents[] = "pages/footer/footer{$i}.md could not be found";
+        $footerContents[] = "pages/footer/footer{$i}.html could not be found";
     }
 }
 
