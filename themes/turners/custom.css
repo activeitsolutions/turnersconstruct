@@ -427,10 +427,22 @@ div.herologo img {
     margin-bottom:150px;
 }
 
-
 .dark {
+    display: block;
     background-color: #191919;
     padding: 50px;
+}
+
+.half-width {
+    max-width: 50%;
+    float: left;
+}
+
+@media only screen and (max-width : 1000px) {
+    .half-width {
+        max-width: 100%;
+        float: none;
+    }
 }
 
 
